@@ -1,0 +1,13 @@
+footer {
+    background-color: red;
+    clear: both;
+    font-family: "Arial";
+}
+footer p {
+    text-align: center;
+    color: black;
+    padding: 3em 0;
+p {
+    padding-bottom: 5em;
+}
+}
